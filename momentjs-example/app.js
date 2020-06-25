@@ -4,7 +4,7 @@ $(document).ready(function () {
 
     // The first basic method of Moment.js is the moment() method. Use this to get today's info!
     console.log(moment());
-
+    
     console.log(moment().format());
 
     // Using moment format, there are different ways that we can display todays date!
