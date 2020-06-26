@@ -34,13 +34,30 @@ The following animation demonstrates the application functionality:
 
 ![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
 
-## Review
+## Built With
+* [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JQuery](https://learn.jquery.com/)
+* [Momentjs](https://momentjs.com/)
 
-You are required to submit the following for review:
 
-* The URL of the deployed application.
+## Deployed Link
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* [See Live Site](https://roycewilliams510.github.io/work-day-scheduler/)
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+## Authors
+
+ **Royce Williams** 
+
+- [Github](https://github.com/RoyceWilliams510/)
+- [LinkedIn](https://www.linkedin.com/in/royce-williams-3334261ab/)
+
+
+### Aknowledgments
+
+* [stack overview help](https://stackoverflow.com/questions/415602/set-value-of-textarea-in-jquery)
+## License
+
+This project is licensed under the MIT License 
